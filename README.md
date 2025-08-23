@@ -11,7 +11,7 @@ Accede y disfruta de tu anime favorito en cualquier momento y lugar.
 Este proyecto se encuentra en **fase BETA**. Las funcionalidades actuales pueden cambiar y es posible que encuentres errores o características incompletas.
 
 ## ⬇️ Como descargar
-*  **Navega hasta la parte de "Releases" para luego entrar a "main", click en "app-release.apk" para finalmente instalar el paquete .apk.**
+*  Navega hasta la parte de **"Releases"** para luego entrar a **"main"**, click en **"app-release.apk"** para finalmente instalar el paquete .apk.
 
 ## 🚀 Características
 
