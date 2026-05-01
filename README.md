@@ -2,7 +2,7 @@
 
 [![Status](https://img.shields.io/badge/status-en--desarrollo-yellow)](https://github.com/)
 
-Accede y disfruta de tu anime favorito en cualquier momento y lugar.
+Accede, disfruta y descarga de tu anime favorito en cualquier momento y lugar.
 
 ---
 
@@ -47,5 +47,4 @@ Accede y disfruta de tu anime favorito en cualquier momento y lugar.
 
 ## 📋 Próximamente
 
-*   Integración de menú principal.
-*   Integración de inicio de sesión.
+*  Por anunciarse.
