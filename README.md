@@ -35,7 +35,7 @@ Accede, disfruta y descarga de tu anime favorito en cualquier momento y lugar.
 
 *   **Streaming de episodios**: Selecciona un episodio y elige un reproductor para verlo al instante.
 *   **Descargas para ver offline**: Guarda tus episodios directamente en tu dispositivo.
-    *   Los archivos se almacenan en la carpeta `Descargas/Descargas FlixAnime/`.
+    *   La carpeta de descargas es 100% personalizable.
     *   Puedes acceder a ellos y gestionarlos con cualquier explorador de archivos de Android.
 
 ---
